@@ -1,9 +1,10 @@
 # Dark Noir Theme 
+![Logo](images/DarkNoir_Logo.png)
 A low-contrast dark theme for VSCode with subtle, noir-inspired colors
 A Visual Studio Code theme inspired by the CS50 Codespaces environment.
 
 ## Preview
-![Theme Screenshot](Screenshot.png)
+![Theme Screenshot](images/Screenshot.png)
 
 ## Installation
 1. Open VS Code.

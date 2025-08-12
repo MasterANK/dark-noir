@@ -1,14 +1,21 @@
 {
   "name": "dark-noir",
   "displayName": "Dark Noir",
-  "publisher": "Ankit Aggarwal (MasterANK)",
+  "author": "Ankit Aggarwal(MasterANK)",
+  "publisher": "MasterANK",
   "description": "A low-contrast dark theme for VSCode with subtle, noir-inspired colors",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
     "Themes"
+  ],
+    "keywords": [
+    "dark noir",
+    "dark-noir",
+    "noir",
+    "dark theme"
   ],
   "contributes": {
     "themes": [
@@ -19,6 +26,7 @@
       }
     ]
   },
+  "icon": "images/DarkNoir_Logo2.png",
   "license": "MIT",
   "repository": {
     "type": "git",
